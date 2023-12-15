@@ -52,7 +52,7 @@ def main():
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    api_key = 'AIzaSyCIWLSLlbr_UNWP-x7ktCCV85I5muZCGao'
+    api_key = 'API_KEY_HERE'
     domains_to_check = []
 
     start_time = time()
